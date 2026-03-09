@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  /* Primary (Akzent / Hauptaktionen) */
+  --color-primary: #215b83;
+  --color-primary-hover: #215b83;
+  --color-primary-light: #87bcde;
+  --color-primary-focus: #215b83;
+
+  --color-tags: #87bcde;
+
+  /* Secondary (neutrale Aktionen / Hintergründe) */
+  --color-secondary: #e5e7eb;
+  --color-secondary-hover: #d1d5db;
+  --color-secondary-foreground: #111827;
+  --color-secondary-muted: #6b7280;
+  /* Seiten-Hintergrund und -Text (optional nutzbar) */
+  --color-background: #f9fafb;
+  --color-foreground: #111827;
+
+  --animate-fade-in: fade-in 0.25s ease-out forwards;
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+@layer base {
+  body {
+    @apply antialiased text-foreground bg-background min-h-screen relative;
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: url("/icons/icon_bib_blue.svg");
+    background-repeat: no-repeat;
+    background-position: right -35vmin bottom -35vmin;
+    background-size: min(120vmin, 1200px);
+    opacity: 0.05;
+    z-index: -1;
+    pointer-events: none;
+  }
+}
+
+@layer utilities {
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  .skip-link {
+    @apply sr-only;
+  }
+  .skip-link:focus {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 50;
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+    @apply bg-primary text-white rounded-lg;
+  }
+}

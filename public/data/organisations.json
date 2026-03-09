@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "tueftellab",
+    "slug": "tueftellab",
+    "name": "TüftelLab der Junge Tüftler gGmbH",
+    "tagline": "Mit digitalen Werkzeugen gemeinsam Zukunft gestalten",
+    "description": "<p>Jedes Klassenzimmer kann zum Makerspace werden: Mit unserem <a href=\"https://tueftellab.de/\" rel=\"noopener noreferrer\" target=\"_blank\">TüftelLab</a> wird Schule zum Ort für kreatives, digitales und zukunftsorientiertes Lernen. Wir bringen Maker Education fächerübergreifend in den Unterricht und begleiten Schulen beim Aufbau von Makerspaces. Unsere 10-jährige Erfahrung zeigt, dass Maker Education Schulen bereit für die Herausforderungen der Zukunft macht. Mit individueller Begleitung, praxiserprobten Lernmaterialien und unserer digitalen Lernplattform schaffen wir Lern- und Lehrsettings, die Kreativität, digitale Kompetenzen und Selbstwirksamkeit stärken.</p><p></p><p>Unser Ansatz verbindet drei Bausteine:</p><ul><li><strong>TüftelLab Schule</strong>: Mit einem individuellen Tüftel-Konzept, praxisnaher Begleitung von der Einrichtung bis zur Umsetzung und inspirierendem Austausch in der Community, befähigen wir Schulen und Lehrkräfte, Maker Education fächerübergreifend in den Unterricht zu integrieren. So ermöglichen wir Schulen nachhaltig, Bildung in der digitalen Welt voranzutreiben.</li><li><strong>TüftelShop: </strong>Unser TüftelShop bietet Schulen pädagogisch erprobte Lernmaterialien und Technik für einen kreativen Einstieg in die Welt des tüftelnden Lernens. Von der prall gefüllten TüftelBox bis zum mobilen TüftelSchrank: Wir machen es leicht, Maker Education lebendig werden zu lassen. Unsere Materialien fördern praktisches, entdeckendes Lernen und bringen mehr Kreativität in den Schulalltag.</li><li><strong>TüftelLab digital</strong>: Auf unserer digitalen Lernplattform finden Lehrkräfte unsere vielfältige Sammlung an TüftelProjekten für einen einfachen und direkten Einstieg in die Welt des tüftelnden Lernens. Vertiefende Lernpfade und Unterrichtsmaterialien begleiten Lehrkräfte dabei, Lehr-und Lernprozesse nachhaltig zu gestalten. So wird Tüfteln ortsunabhängig und mit oder ohne Werkstatt möglich. </li></ul><p></p>",
+    "summary": "Das TüftelLab der Junge Tüftler gGmbH ist eine gemeinnützige Organisation, die Schulen und außerschulische Lernorte auf ihrem Weg zu Maker Education begleitet. Wir betreiben eigene Makerspaces und viele Partner Orte in ganz Deutschland.",
+    "logo": "/images/organisations/tueftellab-0.png",
+    "cover": "/images/organisations/tueftellab-1.jpg",
+    "video": "https://www.youtube.com/watch?v=otM6f20W1kI",
+    "website": "https://tueftellab.de",
+    "email": "post@junge-tueftler.de",
+    "phone": "030 235 97 61 00",
+    "actions_radius": "bundesweit",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Prinzenstraße 85 C",
+      "zip": "10969",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "geo_lat": "52.5033523",
+      "geo_lng": "13.4102359"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/jungetueftler/",
+      "linkedin": "https://www.linkedin.com/company/jungetueftler/",
+      "youtube": "https://www.youtube.com/channel/UCetFXlaW8qUEVJApPuy4Zlg"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "MINT-Bildung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Übergang Schule – Beruf",
+        "Berufsbezogene Bildung"
+      ],
+      "regionen": [
+        "Berlin",
+        "Bayern",
+        "Hamburg",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Brandenburg"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 13 - Massnahmen zum Klimaschutz",
+        "SDG 17 - Partnerschaften zur Erreichung der Ziele"
+      ],
+      "tags": [
+        "Maker Education",
+        "Makerspace"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Schulleitungen",
+        "Schulen",
+        "Lehrer*innen"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Stärkung digitaler Kompetenzen",
+        "Weiterentwicklung des Ganztags",
+        "Ausbau von Schulentwicklungskapazitäten",
+        "Unterstützung der Berufsorientierung sowie Vorbereitung auf den Übergang nach der Schule"
+      ],
+      "evaluation": [
+        "Selbstevaluation"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "lehrkraefte",
+      "schulen"
+    ],
+    "topics": [
+      "maker_education",
+      "makerspace"
+    ]
+  },
+  {
+    "id": "schule-im-aufbruch",
+    "slug": "schule-im-aufbruch",
+    "name": "Schule im Aufbruch gGmbH",
+    "tagline": "Die Schule von morgen schon heute gestalten.",
+    "description": "<p>Schule im Aufbruch steht für eine ganzheitliche und transformative Bildung im Sinne der Bildung für Nachhaltige Entwicklung. Im Zentrum steht dabei die dreifache Verantwortung: Verantwortung für sich selbst, Verantwortung für Mitmenschen und Verantwortung für unseren Planeten.</p><p>Unsere Schulen zeigen, dass bereits Kinder und Jugendliche zu aktiven Gestalter*innen unserer Gesellschaft werden können, wenn ihnen ausreichend Raum geboten wird, ihre angeborene Begeisterungsfähigkeit und Kreativität zu erhalten und zu fördern. Wir begleiten Schulen in ihrem Transformationsprozess hin zu einer Lernkultur, die sich durch Vertrauen, Wertschätzung, Beziehung, Verantwortung und Sinn auszeichnet.</p><p>Dafür entwickeln wir zeitgemäße Lernformate wie den FREI DAY, die sich durch ein hohes Maß an Eigenverantwortung und Partizipation von Schüler*innen auszeichen und bieten darüber hinaus eine Transformationsbegleitung an, die die Schulentwicklungsteams befähigt, Veränderungsprozesse anzustoßen und eigenständig zu begleiten.</p>",
+    "summary": "Schule im Aufbruch unterstützt Schulen bei der Transformation zu Lernorten, in denen Schüler*innen zu Gestalter*innen der Gesellschaft werden.",
+    "logo": "/images/organisations/schule-im-aufbruch-0.png",
+    "cover": "/images/organisations/schule-im-aufbruch-1.jpg",
+    "video": "https://youtu.be/nEFGI1XcThY",
+    "website": "https://schule-im-aufbruch.de",
+    "email": "hallo@schule-im-aufbruch.de",
+    "actions_radius": "bundesweit",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Marie-Curie-Allee 8",
+      "zip": "10315",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Deutschland",
+      "geo_lat": "52.5087174",
+      "geo_lng": "13.5036932"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/InitiativeSiA/",
+      "instagram": "https://instagram.com/schuleimaufbruch",
+      "linkedin": "https://www.linkedin.com/company/initiative-schule-im-aufbruch",
+      "x": "https://twitter.com/initiativeSiA",
+      "youtube": "https://www.youtube.com/@schuleimaufbruch"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Bildung für nachhaltige Entwicklung",
+        "Bildungssystem"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Brandenburg",
+        "Berlin",
+        "Bremen",
+        "Hessen",
+        "Hamburg",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Rheinland-Pfalz",
+        "Nordrhein-Westfalen",
+        "Saarland",
+        "Sachsen-Anhalt",
+        "Sachsen",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung"
+      ],
+      "tags": [
+        "Schultransformation",
+        "Schulentwicklung"
+      ],
+      "zielgruppen": [
+        "Lehrer*innen",
+        "Schüler*innen",
+        "Schulen"
+      ],
+      "ikom": [
+        "Ausbau von Schulentwicklungskapazitäten",
+        "Strukturen multiprofessioneller Kooperation in Schulen",
+        "Diversitäts- und demokratieorientierte Schulentwicklung"
+      ],
+      "evaluation": [
+        "Selbstevaluation",
+        "Unabhängige wissenschaftliche Begleitforschung"
+      ]
+    },
+    "target_groups": [
+      "lehrkraefte",
+      "schueler",
+      "schulen"
+    ],
+    "topics": [
+      "schultransformation",
+      "schulentwicklung"
+    ]
+  },
+  {
+    "id": "phasebe",
+    "slug": "phasebe",
+    "name": "Phase BE – Bildung heißt Entwicklung",
+    "tagline": "Chancen und Orientierung für junge Menschen auf ihrem Weg in die Zukunft",
+    "description": "<p>Demografischer Wandel, stetige Akademisierung der Gesellschaft und die wachsende Digitalisierung in der Arbeitswelt verändern die Anforderungen an junge Menschen im Übergang von der Schule in den Beruf. Verunsichert, gefährdet und schnell abgehängt sind Jugendliche, die in dieser zentralen Phase mit persönlichen Schwierigkeiten und Benachteiligungen zu kämpfen haben.</p><p>Die Phase BE unterstützt und bildet sie weiter, damit sie sich in ihren Kompetenzen entwickeln. Auch Muliplikator:innen, Lehrer:innen und Student:innen lernen durch die Arbeit neue Seiten an sich kennen und tragen ihre Erfahrungen in ihre Arbeitsbereiche weiter.</p><p>Gemeinsam wollen wir damit mit ganzheitlicher Kompetenzentwicklung qualifizieren, Bildung von morgen gestalten und starke Menschen für eine starke Gesellschaft prägen.</p>",
+    "summary": "Individuell fördern, gesellschaftlich wirken – wir unterstützen Jugendliche durch nachhaltige Persönlichkeitsentwicklung und gezielte Vermittlung von Kompetenzen in der Berufswahl und bei dem Übergang in eine berufliche Zukunft.",
+    "logo": "/images/organisations/phasebe-0.png",
+    "cover": "/images/organisations/phasebe-1.jpg",
+    "video": "https://www.youtube.com/watch?v=I83JvGWcS34",
+    "website": "https://www.phase-be.de/",
+    "email": "info@phase-be.de",
+    "phone": "04022854400",
+    "actions_radius": "überregional",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Hellbrookstraße 63",
+      "zip": "22305",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "country": "Deutschland",
+      "geo_lat": "53.5915898",
+      "geo_lng": "10.0460802"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/deinsommercamp",
+      "instagram": "https://www.instagram.com/explore/tags/deinsommercamp/",
+      "linkedin": "https://de.linkedin.com/company/phase-be-bildung-heißt-entwicklung-ggmbh",
+      "youtube": "https://www.youtube.com/@phasebe7022"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Persönlichkeitsentwicklung",
+        "Bildung für nachhaltige Entwicklung",
+        "Bildungssystem",
+        "Inklusion",
+        "MINT-Bildung",
+        "Sprachbildung",
+        "Politische Bildung",
+        "Kulturelle Bildung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Übergang Schule – Beruf",
+        "Berufsbezogene Bildung"
+      ],
+      "regionen": [
+        "Hamburg",
+        "Schleswig-Holstein",
+        "Bayern",
+        "Nordrhein-Westfalen",
+        "Niedersachsen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 10 - Weniger Ungleichheiten",
+        "SDG 17 - Partnerschaften zur Erreichung der Ziele",
+        "SDG 8 - Menschenwürdige Arbeit und Wirtschaftswachstum"
+      ],
+      "tags": [
+        "Phase BE",
+        "Bildung",
+        "Entwicklung",
+        "Berufsorientierung",
+        "Bildungslandschaft",
+        "Nachhaltigkeit",
+        "Selbstwirksamkeit",
+        "Chancengerechtigkeit",
+        "Teilhabe",
+        "Kreativität",
+        "Sprachkompetenz",
+        "Lesekompetenz",
+        "Leseförderung",
+        "Lesen",
+        "Mathematik",
+        "SDG",
+        "Bildungsgerechtigkeit",
+        "Kooperationspartner",
+        "Berufseinstieg",
+        "Bildungschancen"
+      ],
+      "zielgruppen": [
+        "Schüler*innen"
+      ]
+    },
+    "target_groups": [
+      "schueler"
+    ],
+    "topics": [
+      "phase_be",
+      "bildung",
+      "entwicklung",
+      "berufsorientierung",
+      "bildungslandschaft",
+      "nachhaltigkeit",
+      "selbstwirksamkeit",
+      "chancengerechtigkeit",
+      "teilhabe",
+      "kreativitaet",
+      "sprachkompetenz",
+      "lesekompetenz",
+      "lesefoerderung",
+      "lesen",
+      "mathematik",
+      "sdg",
+      "bildungsgerechtigkeit",
+      "kooperationspartner",
+      "berufseinstieg",
+      "bildungschancen"
+    ]
+  },
+  {
+    "id": "dare2care-gug-FRPfeX",
+    "slug": "dare2care-gug-FRPfeX",
+    "name": "Dare2Care",
+    "tagline": "Gemeinsam für mental und sozial starke Schulen",
+    "description": "<p>Dare2Care stärkt die mentale Gesundheit und das soziale Miteinander von Schüler*innen.</p><p>Die gemeinnützige Organisation begleitet Schulen auf dem Weg zu sozial und mental stärkenden Lernorten. Dafür arbeitet Dare2Care mit Schüler*innen, Lehrkräften und Eltern und vermittelt sozial-emotionale Kompetenzen wie Emotionsregulation, Kommunikation und Empathie.</p><p>Das Angebot umfasst Workshops, das Schulprogramm „Resiliente Schule“ sowie eine digitale Lernwelt mit Fortbildungen und Unterrichtsmaterialien für Lehrkräfte – entwickelt von Psycholog*innen und Lehrkräften. Der Ansatz ist wissenschaftlich fundiert, praxisnah und auf Augenhöhe.</p><p>Dare2Care wurde mehrfach ausgezeichnet, unter anderem mit dem Berliner Gesundheitspreis, dem Jugenddemokratiepreis der Bundeszentrale für politische Bildung sowie in der Bundesauswahl herausragender sozialer Ansätze im Rahmen von startsocial – ausgezeichnet von Angela Merkel und Olaf Scholz.</p>",
+    "summary": "Dare2Care stärkt die mentale Gesundheit und das soziale Miteinander an Schulen durch die Förderung sozial-emotionaler Kompetenzen.",
+    "logo": "/images/organisations/dare2care-gug-FRPfeX-0.png",
+    "cover": "/images/organisations/dare2care-gug-FRPfeX-1.png",
+    "website": "https://www.dare2care.de/",
+    "email": "info@dare2care.de",
+    "actions_radius": "bundesweit",
+    "legal_form": "gUG (haftungsbeschränkt)",
+    "address": {
+      "street": "Horber Str. 18",
+      "zip": "13469",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Deutschland",
+      "geo_lat": "52.6104485",
+      "geo_lng": "13.3252316"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/we.dare2care/",
+      "linkedin": "https://www.linkedin.com/company/dare2care-de/"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Gesundheit und Prävention",
+        "Lehrer*innenbildung",
+        "Persönlichkeitsentwicklung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung"
+      ],
+      "regionen": [
+        "Hamburg",
+        "Berlin",
+        "Schleswig-Holstein",
+        "Thüringen",
+        "Bayern"
+      ],
+      "sdgs": [
+        "SDG 3 - Gesundheit und Wohlergehen",
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 10 - Weniger Ungleichheiten"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Lehrer*innen",
+        "Schulen",
+        "Eltern und Erziehungsberechtigte"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Förderung der Demokratiebildung und Gewaltprävention"
+      ],
+      "evaluation": [
+        "Selbstevaluation"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "lehrkraefte",
+      "schulen",
+      "berufstaetige"
+    ],
+    "topics": [
+      "gesundheit_und_praevention",
+      "lehrerinnenbildung",
+      "persoenlichkeitsentwicklung"
+    ]
+  },
+  {
+    "id": "chancenwerk-e-v-mbg1MM",
+    "slug": "chancenwerk-e-v-mbg1MM",
+    "name": "Chancenwerk e.V.",
+    "tagline": "Weil Bildung Vorbilder braucht",
+    "description": "<p>Seit 2004 setzen wir uns deutschlandweit dafür ein, dass alle Kinder und Jugendlichen unabhängig vom Einkommen ihrer Erziehungsberechtigten und ihrer soziokulturellen Herkunft gerechte Bildungschancen erhalten. Unsere Angebote fördern eigenständiges Lernen und soziales Engagement. Wir unterstützen die Schüler:innen, ihre Kompetenzen zu stärken, ihre Leistungen zu verbessern, ihre Potenziale zu entfalten und ihre Begabungen zu entdecken. Auch der Zusammenhalt der Gemeinschaft und das soziale Miteinander werden gestärkt.</p><p>Uns liegt es besonders am Herzen, dass alle Schüler:innen unabhängig vom Einkommen ihrer Erziehungsberechtigten und ihrer soziokulturellen Herkunft eine faire Chance auf Bildung und somit auf gesellschaftliche Teilhabe bekommen.</p><p>Kern unseres Angebots ist das Lernförderkonzept Lernkaskade, das wir an unseren Partnerschulen umsetzen. Jüngere Schüler:innen erhalten in der Schule Unterstützung von Jugendlichen und Studierenden, um ihre Basiskompetenzen zu fördern, sich auf Klassenarbeiten vorzubereiten und ihre Noten zu verbessern. Im Gegenzug dazu erhalten die Jugendlichen von den Studierenden Intensivkurse in einem Fach ihrer Wahl.</p><p>In unserer Lernförderung nutzen wir eigens entwickelte Lernhefte, die CHANCENhefte. Sie sind auf die Bedarfe der Kinder und Jugendlichen zugeschnitten. Derzeit bieten wir über 60 verschiedene CHANCENhefte in den Fächern Deutsch, Mathematik, Englisch, Biologie und Chemie an, ergänzend ein Heft zum Thema Demokratie.</p><p>Durch unsere digitale Lernplattform CHANCENcampus ergänzen wir unser Angebot und die Inhalte der CHANCENhefte. Schüler:innen können hier mit unserer digitalen Lernplattform flexibel von zu Hause über ihren persönlichen Lernbereich mit individuellen Lerninhalten arbeiten.</p><p>Zudem bieten wir mit der CHANCENakademie unser eigenes Fortbildungsangebot und widmen uns der ganzheitlichen Förderung von Kindern und Jugendlichen. In den Workshops geht es um Themen wie beispielsweise die Stärkung von Selbstwirksamkeit, Resilienz und Selbst(lern-)Kompetenzen.</p><p>Mit unserer CHANCENschule digital bieten wir digitale Lernförderung in Kleingruppen per Videokonferenz an. Dieses Angebot ist schul- und wohnortunabhängig.</p>",
+    "summary": "Chancenwerk e.V. setzt sich bundesweit für faire Bildungschancen ein. Der Verein unterstützt Kinder und Jugendliche in ihrer schulischen und individuellen Entwicklung.",
+    "logo": "/images/organisations/chancenwerk-e-v-mbg1MM-0.png",
+    "cover": "/images/organisations/chancenwerk-e-v-mbg1MM-1.jpg",
+    "video": "https://www.youtube.com/watch?v=bBEJPwlU2MM",
+    "website": "https://chancenwerk.de/",
+    "email": "kontakt@chancenwerk.org",
+    "phone": "023059023940",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Am Markt 18",
+      "zip": "44575",
+      "city": "Castrop-Rauxel",
+      "state": "Nordrhein-Westfalen",
+      "country": "Deutschland",
+      "geo_lat": "51.5471483",
+      "geo_lng": "7.3112586"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/Chancenwerk",
+      "instagram": "https://www.instagram.com/chancenwerk/",
+      "linkedin": "https://www.linkedin.com/company/chancenwerk-e-v-/",
+      "youtube": "https://www.youtube.com/@chancenwerke.v."
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Familien- und Elternbildung",
+        "Sprachbildung",
+        "Persönlichkeitsentwicklung",
+        "Bildungssystem",
+        "Bildung für nachhaltige Entwicklung",
+        "Ehrenamt- und Engagementförderung",
+        "Inklusion",
+        "Interkulturelle Bildung",
+        "Lehrer*innenbildung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Berufsbezogene Bildung",
+        "Hochschule",
+        "Übergang Schule – Beruf"
+      ],
+      "regionen": [
+        "Nordrhein-Westfalen",
+        "Niedersachsen",
+        "Saarland",
+        "Bremen",
+        "Bayern",
+        "Rheinland-Pfalz",
+        "Hamburg",
+        "Baden-Württemberg",
+        "Hessen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 10 - Weniger Ungleichheiten"
+      ],
+      "tags": [
+        "Chancengerechtigkeit",
+        "Peer-Education",
+        "Bildungsschance",
+        "soziale Kompetenz",
+        "Engagement",
+        "Bessere Noten",
+        "Förderung",
+        "Elternarbeit"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Eltern und Erziehungsberechtigte",
+        "Schulen",
+        "Lehrer*innen",
+        "Schulleitungen"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Stärkung digitaler Kompetenzen",
+        "Unterstützung der Berufsorientierung sowie Vorbereitung auf den Übergang nach der Schule"
+      ],
+      "evaluation": [
+        "Selbstevaluation"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "berufstaetige",
+      "schulen",
+      "lehrkraefte"
+    ],
+    "topics": [
+      "chancengerechtigkeit",
+      "peer-education",
+      "bildungsschance",
+      "soziale_kompetenz",
+      "engagement",
+      "bessere_noten",
+      "foerderung",
+      "elternarbeit"
+    ]
+  },
+  {
+    "id": "coach-at-school",
+    "slug": "coach-at-school",
+    "name": "coach@school",
+    "tagline": "Vielfalt leben! Lesefreude wecken! Bildungschancen steigern!",
+    "description": "<p>📚 Lesen ist der Schlüssel zu Bildung und Teilhabe! Allerdings kann jedes vierte Kind am Ende der Grundschulzeit nicht richtig lesen. Mehrsprachige Kinder aus einem sozioökonomisch herausfordernden Umfeld sind davon besonders betroffen. Hier setzen die mehrsprachige Bücherkoffer Programme von coach@school e.V. an.</p><p>♥️-Stücke sind unsere Bücherkoffer, gefüllt mit inklusiven Büchern in bis zu 50 Sprachen. Diese begleiten Kitagruppen oder Grundschulklassen über die Dauer eines Jahres: Abwechselnd rollen die Koffer für je eine Woche aus der Kita bzw. Schule in die Familien der Kinder. Dort motivieren sie zum gemeinsamen (Vor-)Lesen – auf Deutsch und/oder der Familiensprache. Die Mehrsprachigkeit der Bücher und Begleitmaterialien erreicht die Eltern auf Augenhöhe.</p><p>🎓 Ein niedrigschwelliger Elternworkshop zum Vorlesen sowie eine Fortbildung und Lernplattform für Lehrkräfte runden das Programm ab. Damit trägt das Bücherkoffer Programm zur Leseförderung und Elterneinbindung und somit aktiv zur Chancengerechtigkeit bei.</p><p>💪 Wir konnten seit unser Gründung 2016 bereits bei über 130.000 Kindern und ihren Familien Lesefreude wecken und Bildungschancen stärken. Mittlerweile rollen unsere mehrsprachigen Bücherkoffer in 15 Bundesländern. Sie möchten einen Standort eröffnen oder Bücherkoffer-Schule werden? Kontaktieren Sie uns!</p>",
+    "summary": "Unsere Vision ist, dass in unserer Gesellschaft Sprachenvielfalt geschätzt und gelebt wird. Bildungseinrichtungen haben Mehrsprachigkeit selbstverständlich in ihre Konzepte integriert. Fachkräfte, Eltern und Kinder empfinden die mehrsprachigen Angebote als Bereicherung. Kinder – unabhängig von sozio-ökonomischem Status und Herkunft – haben Lesefreude und Zugang zu Bildung und Teilhabe am gesellschaftlichen Leben. Dafür hat coach@school e.V. bislang 3 mehrjährige Programme entwickelt: das Bücherkoffer Programm, das Mathe-Lesekoffer Programm und das Kita-Koffer Programm",
+    "logo": "/images/organisations/coach-at-school-0.jpg",
+    "cover": "/images/organisations/coach-at-school-1.jpg",
+    "video": "https://www.youtube.com/watch?v=kI9pULYhIUE&amp;t=3s",
+    "website": "https://www.coachatschool.org/",
+    "email": "info@coachatschool.org",
+    "phone": "+49-40-60863741 ",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Kapstadtring 10",
+      "zip": "22297",
+      "city": "Hamburg",
+      "state": "Hamburg",
+      "country": "Deutschland",
+      "geo_lat": "53.6041949",
+      "geo_lng": "10.0268998"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/coachatschool/?hl=de",
+      "linkedin": "https://www.linkedin.com/company/coach-at-school/mycompany/",
+      "youtube": "https://www.youtube.com/@coachschoole.v.1686"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Bildungssystem",
+        "Erzieher*innenbildung",
+        "Familien- und Elternbildung",
+        "Integration von Zugewanderten, Flucht und Migration",
+        "Lehrer*innenbildung",
+        "Sprachbildung",
+        "MINT-Bildung",
+        "Diversität",
+        "Diversität"
+      ],
+      "bildungsabschnitte": [
+        "Kita",
+        "Übergang Kita – Schule",
+        "Schulische Bildung"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 10 - Weniger Ungleichheiten",
+        "SDG 1 - Keine Armut"
+      ],
+      "tags": [
+        "Vorlesen",
+        "Lesen",
+        "Lesekompetenz",
+        "Leseförderung",
+        "Sprache",
+        "Sprachkompetenz",
+        "Sprachförderung",
+        "Buch",
+        "Bücher",
+        "Bücherkoffer",
+        "Bücherkoffer Programm",
+        "mehrsprachig",
+        "Mehrsprachigkeit",
+        "Elternarbeit",
+        "Elterneinbindung",
+        "Bildungschancen",
+        "Bildungsgerechtigkeit",
+        "Vielfalt"
+      ],
+      "zielgruppen": [
+        "Schulleitungen",
+        "Lehrer*innen",
+        "Eltern und Erziehungsberechtigte",
+        "Schüler*innen",
+        "Fördervereine"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Diversitätssensible Aktivierung sozialraumbezogener Ressourcen",
+        "Weiterentwicklung des Ganztags"
+      ],
+      "evaluation": [
+        "Selbstevaluation",
+        "Externe Evaluation",
+        "Unabhängige wissenschaftliche Begleitforschung"
+      ]
+    },
+    "target_groups": [
+      "lehrkraefte",
+      "berufstaetige",
+      "schueler"
+    ],
+    "topics": [
+      "vorlesen",
+      "lesen",
+      "lesekompetenz",
+      "lesefoerderung",
+      "sprache",
+      "sprachkompetenz",
+      "sprachfoerderung",
+      "buch",
+      "buecher",
+      "buecherkoffer",
+      "buecherkoffer_programm",
+      "mehrsprachig",
+      "mehrsprachigkeit",
+      "elternarbeit",
+      "elterneinbindung",
+      "bildungschancen",
+      "bildungsgerechtigkeit",
+      "vielfalt"
+    ]
+  },
+  {
+    "id": "herausforderung",
+    "slug": "herausforderung",
+    "name": "HERAUSFORDERUNG einfach machen gGmbH",
+    "tagline": "BNE, Persönlichkeitsentwicklung, Schulentwicklung",
+    "description": "<p>Wir von HERAUSFORDERUNG einfach machen finden, die Schulzeit ist dazu da, sich selbst kennenzulernen und die eigene Persönlichkeit zu entwickeln. Nach ihrem Abschluss müssen junge Erwachsene eine Vorstellung davon haben, wer sie sind und was in ihnen steckt. Unser Weg dorthin: Außerschulisches Erfahrungslernen durch HERAUSFORDERUNGSPROJEKTE. Wir etablieren HERAUSFORDERUNGSPROJEKTE an Schulen bundesweit. Dafür empowern wir Schüler:innen, Lehrkräfte und Ehrenamtliche. Da die Teilnehmenden ihre HERAUSFORDERUNGEN selbst gestalten, sind die Projekte so individuell wie die Teilnehmenden selbst. Ob sportlich aktiv, in andere Lebensrealitäten eintauchend oder kulturell schaffend - Ziel ist immer, aus der eigenen Komfortzone auszubrechen, die eigenen Stärken zu entdecken und Selbstwirksamkeit zu erfahren.</p>",
+    "summary": "Wir etablieren HERAUSFORDERUNGSPROJEKTE als Lernfeld für junge Menschen im Lehrplan von weiterführenden Schulen bundesweit - dafür empowern wir Lehrkräfte, Ehrenamtliche und Jugendliche und fördern ganzheitliches Lernen und Lehren.",
+    "logo": "/images/organisations/herausforderung-0.png",
+    "cover": "/images/organisations/herausforderung-1.jpg",
+    "video": "https://www.youtube.com/watch?v=-cGu_tIXozw",
+    "website": "https://www.herausforderung.eu/schulen/",
+    "email": "info@herausforderung.eu",
+    "phone": "0331 769971 -40",
+    "actions_radius": "bundesweit",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Marlene-Dietrich-Allee ",
+      "zip": "14482",
+      "city": "Potsdam",
+      "state": "Brandenburg",
+      "country": "Deutschland",
+      "geo_lat": "52.3881741",
+      "geo_lng": "13.1174820"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/Herausfoerderer/",
+      "instagram": "https://www.instagram.com/projektherausforderung/",
+      "linkedin": "https://www.linkedin.com/company/projekt-herausforderung/"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Bildung für nachhaltige Entwicklung",
+        "Bildungssystem",
+        "Ehrenamt- und Engagementförderung",
+        "Gesundheit und Prävention",
+        "Persönlichkeitsentwicklung",
+        "Lehrer*innenbildung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Übergang Schule – Beruf"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "Hessen",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Sachsen",
+        "Thüringen",
+        "Schleswig-Holstein",
+        "Saarland"
+      ],
+      "sdgs": [
+        "SDG 3 - Gesundheit und Wohlergehen",
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 16 - Frieden, Gerechtigkeit und starke Institutionen",
+        "SDG 10 - Weniger Ungleichheiten"
+      ],
+      "tags": [
+        "Bildungslandschaft",
+        "Einführung",
+        "Nachhaltigkeit",
+        "Berufsorientierung",
+        "Chancengerechtigkeit",
+        "Selbstwirksamkeit",
+        "Entrepreneurship Education",
+        "Persönliche Entwicklung",
+        "Ehrenamt",
+        "Transformationsbegleitung",
+        "Schulentwicklung"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Lehrer*innen",
+        "Schulen",
+        "Außerschulische Akteure"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Ausbau von Schulentwicklungskapazitäten",
+        "Strukturen multiprofessioneller Kooperation in Schulen",
+        "Datengestützte Qualitätsentwicklung an Schulen"
+      ],
+      "evaluation": [
+        "Externe Evaluation",
+        "Selbstevaluation"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "lehrkraefte",
+      "schulen",
+      "ausserschulische_akteure"
+    ],
+    "topics": [
+      "bildungslandschaft",
+      "einfuehrung",
+      "nachhaltigkeit",
+      "berufsorientierung",
+      "chancengerechtigkeit",
+      "selbstwirksamkeit",
+      "entrepreneurship_education",
+      "persoenliche_entwicklung",
+      "ehrenamt",
+      "transformationsbegleitung",
+      "schulentwicklung"
+    ]
+  },
+  {
+    "id": "kopfsachen",
+    "slug": "kopfsachen",
+    "name": "Kopfsachen e.V.",
+    "description": "<p>Kopfsachen ist ein Verein zur Förderung der mentalen Gesundheitskompetenz junger Menschen. Unsere Vision: Alle Menschen wachsen in mental gesundheitsfördernden Lebenswelten auf und werden Teil einer widerstandsfähigen Gesellschaft. Sie sind befähigt, offen und kompetent mit mentaler Gesundheit umzugehen. Um dieser Vision näher zu kommen, setzen wir im System Schule an und streben einen ganzheitlichen Systemwandel an; hin zu einem gesundheitsförderlichen Schulsystem. In wissenschaftlich fundierten Bildungsformaten vermitteln wir den Schüler*innen selbst sowie dem Schulpersonal die Grundlagen der mentalen Gesundheitskompetenz und Methoden zu deren aktiver Förderung. Unsere Workshopleitungen sind von uns umfassend ausgebildete Psychologiestudierende (mind. B.Sc.) und Psycholog*innen. In den lebensnah und erlebnisorientiert gestalteten Workshops liegt der Fokus auf einer Begegnung zwischen Teilnehmenden und Workshopleitungen auf Augenhöhe sowie einer realitätsnahen Vermittlung von anwendbarem Wissen und Fähigkeiten. Seit der Gründung in 2020 haben wir in unseren 5 Standorten über 33.000 Schüler*innen erreicht. Weitere Infos und Kontaktanfragen über unsere Website.</p>",
+    "summary": "Kopfsachen fördert die mentale Gesundheit junger Menschen in wissenschaftlich fundierten, erlebnisorientierten Bildungsformaten an Schulen. Unsere Workshopleitungen sind nah an der Zielgruppe und professionell durch Kopfsachen ausgebildet.",
+    "logo": "/images/organisations/kopfsachen-0.png",
+    "cover": "/images/organisations/kopfsachen-1.jpg",
+    "video": "https://youtu.be/8iQRtobaXFs?feature=shared",
+    "website": "https://kopfsachen.org/",
+    "email": "mail@kopfsachen.org",
+    "phone": "+49 30 23328808 - 01",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Frobenstraße 6",
+      "zip": "10783",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Deutschland",
+      "geo_lat": "52.4977790",
+      "geo_lng": "13.3590159"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/_kopfsachen/",
+      "linkedin": "https://de.linkedin.com/company/kopfsachen-ev",
+      "tiktok": "null",
+      "youtube": "https://www.youtube.com/@kopfsachen9300"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Persönlichkeitsentwicklung",
+        "Gesundheit und Prävention",
+        "Bildungssystem"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Berufsbezogene Bildung",
+        "Übergang Schule – Beruf",
+        "Hochschule"
+      ],
+      "regionen": [
+        "Berlin",
+        "Hamburg",
+        "Nordrhein-Westfalen",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Hessen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 3 - Gesundheit und Wohlergehen"
+      ],
+      "tags": [
+        "Prävention",
+        "Mentale Gesundheit",
+        "Mental Health",
+        "Selbstwirksamkeit",
+        "Persönlichkeit",
+        "Chancengerechtigkeit"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Lehrer*innen",
+        "Schulen",
+        "Eltern und Erziehungsberechtigte"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen"
+      ],
+      "evaluation": [
+        "Selbstevaluation",
+        "Externe Evaluation",
+        "Unabhängige wissenschaftliche Begleitforschung"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "lehrkraefte",
+      "schulen",
+      "berufstaetige"
+    ],
+    "topics": [
+      "praevention",
+      "mentale_gesundheit",
+      "mental_health",
+      "selbstwirksamkeit",
+      "persoenlichkeit",
+      "chancengerechtigkeit"
+    ]
+  },
+  {
+    "id": "international-rescue-commitee-irc-deutschland",
+    "slug": "international-rescue-commitee-irc-deutschland",
+    "name": "International Rescue Commitee (IRC) Deutschland",
+    "summary": "International Rescue Committee (IRC) ist eine internationale Hilfsorganisation, die 1933 auf Anregung von Albert Einstein gegründet wurde. Seitdem unterstützt IRC Menschen, die von politischen Krisen, Krieg, Verfolgung oder Naturkatastrophen betroffen sind. Im Jahr 2016 wurde IRC Deutschland gegründet und engagiert sich bundesweit in den Bereichen Bildung, Beruf &amp; Orientierung sowie Schutz, Rechtsberatung und Teilhabe.",
+    "logo": "/images/organisations/international-rescue-commitee-irc-deutschland-0.png",
+    "website": "https://mehr-teilhabe.de/",
+    "email": "healing.classrooms@escue.org",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Wattstraße 11",
+      "zip": "13355",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "geo_lat": "52.5411556",
+      "geo_lng": "13.3909126"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Diversität",
+        "Familien- und Elternbildung",
+        "Interkulturelle Bildung",
+        "Lehrer*innenbildung",
+        "Bildungssystem",
+        "Integration von Zugewanderten, Flucht und Migration",
+        "Erzieher*innenbildung",
+        "Persönlichkeitsentwicklung",
+        "Inklusion",
+        "Gesundheit und Prävention"
+      ],
+      "bildungsabschnitte": [
+        "Frühkindliche Bildung",
+        "Kita",
+        "Übergang Kita – Schule",
+        "Übergang Schule – Beruf",
+        "Schulische Bildung",
+        "Berufsbezogene Bildung"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Brandenburg",
+        "Hamburg",
+        "Berlin",
+        "Mecklenburg-Vorpommern",
+        "Bremen",
+        "Hessen",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 3 - Gesundheit und Wohlergehen",
+        "SDG 5 - Geschlechter-Gleichheit",
+        "SDG 10 - Weniger Ungleichheiten",
+        "SDG 16 - Frieden, Gerechtigkeit und starke Institutionen"
+      ],
+      "tags": [
+        "Bildungslandschaft",
+        "Online",
+        "Selbstwirksamkeit",
+        "Teilhabe",
+        "Bildungsschance",
+        "Webinar",
+        "Grundschule",
+        "Chancengerechtigkeit",
+        "Schule",
+        "Kinder- und Jugendempowerment",
+        "Kinder",
+        "Mentale Gesundheit",
+        "sichere Lernorte"
+      ],
+      "zielgruppen": [
+        "Lehrer*innen",
+        "Schulleitungen",
+        "Eltern und Erziehungsberechtigte",
+        "Schulen",
+        "Außerschulische Akteure",
+        "Fördervereine",
+        "Schüler*innen"
+      ]
+    },
+    "target_groups": [
+      "lehrkraefte",
+      "berufstaetige",
+      "schulen",
+      "ausserschulische_akteure",
+      "schueler"
+    ],
+    "topics": [
+      "bildungslandschaft",
+      "online",
+      "selbstwirksamkeit",
+      "teilhabe",
+      "bildungsschance",
+      "webinar",
+      "grundschule",
+      "chancengerechtigkeit",
+      "schule",
+      "kinder-_und_jugendempowerment",
+      "kinder",
+      "mentale_gesundheit",
+      "sichere_lernorte"
+    ]
+  },
+  {
+    "id": "lern-fair",
+    "slug": "lern-fair",
+    "name": "Lern-Fair e.V.",
+    "tagline": "Gemeinsam für mehr Bildungschancen",
+    "description": "Lern-Fair e.V. ist ein gemeinnütziger Verein, der seit 2020 digitale Bildung deutschlandweit kostenfrei anbietet, besonders für bildungsbenachteiligte Schüler:innen. Das Hauptziel ist die Überwindung von Bildungsungleichheiten, vorrangig für benachteiligte Kinder und Jugendliche. Durch ehrenamtliche Helfer:innen, werden individuelle Lernunterstützung und Chancengleichheit gefördert.\r\n\r\nBislang hat Lern-Fair über 15.000 Lernpaare vermittelt und digitale Gruppenkurse in Kernfächern und Deutsch als Zweitsprache implementiert. Zusätzlich werden Fortbildungen für die Ehrenamtlichen angeboten, welche auch in Kooperationen mit Universitäten durchgeführt werden.\r\n\r\nDas engagierte Team von rund 80 Personen hat für seinen Einsatz in der Bildungsgerechtigkeit mehrere Auszeichnungen erhalten. Mit dem Ziel, den Bildungszugang nachhaltig zu verbessern, arbeitet Lern-Fair an der Ausweitung seiner Angebote, besonders post-Pandemie.\r\n\r\nZur Steigerung seiner Wirkung kooperiert Lern-Fair mit finanziellen Partnern, Unternehmen, Universitäten und Netzwerkpartnern. Diese Partnerschaften fördern das Programm und ermöglichen einen wertvollen Austausch von Ideen und Ressourcen.",
+    "summary": "Lern-Fair e.V. fördert kostenlose, digitale Bildung in Deutschland, speziell für bildungsbenachteiligte Schüler:innen. Über 15.000 Lernpaare wurden durch ehrenamtliche Helfer:innen unterstützt.",
+    "logo": "https://api.edcosystems.com/wp-content/uploads/organisationen/Lern-Fair_color_green-bg_symbol@4x.png",
+    "cover": "https://api.edcosystems.com/wp-content/uploads/organisationen/Hintergrund-Gruppe-01_c_Reiners-2023-min.JPG",
+    "website": "https://www.lern-fair.de",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Gluckstraße 1",
+      "zip": "53115",
+      "city": "Bonn",
+      "state": "Nordrhein-Westfalen",
+      "country": "Deutschland",
+      "geo_lat": "50.7334913",
+      "geo_lng": "7.0909163"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/lernfair/",
+      "instagram": "https://www.instagram.com/lern.fair/",
+      "linkedin": "https://de.linkedin.com/company/lern-fair",
+      "x": "https://twitter.com/LernFair",
+      "youtube": "https://www.youtube.com/channel/UCK3tABbIQj-Yeu-1BRmuS0w"
+    },
+    "terms": {
+      "bildungsabschnitte": [
+        "Schulische Bildung"
+      ],
+      "regionen": [
+        "Bayern",
+        "Baden-Württemberg",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "Hessen",
+        "Hamburg",
+        "Mecklenburg-Vorpommern",
+        "Nordrhein-Westfalen",
+        "Niedersachsen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung"
+      ]
+    }
+  },
+  {
+    "id": "mental-health-initiative-ggmbh",
+    "slug": "mental-health-initiative-ggmbh",
+    "name": "Mental Health Initiative gGmbH",
+    "tagline": "Make Mental Health a Priority!",
+    "summary": "Wir, die Mental Health Initiative, sind ein Social Impact Startup zur Förderung der mentalen Gesundheit der jungen Generation. Mit unserem Programm YAM – Youth Aware of Mental Health tragen wir dazu bei, die mentale Gesundheit von Jugendlichen zu stärken, psychische Erkrankungen und Suizide zu verhindern sowie das gesellschaftliche Stigma gegenüber psychisch erkrankten Menschen abzubauen.",
+    "logo": "/images/organisations/mental-health-initiative-ggmbh-0.jpg",
+    "cover": "/images/organisations/mental-health-initiative-ggmbh-1.jpg",
+    "video": "https://youtu.be/k0Epyrp4jVQ",
+    "website": "https://www.mental-health-initiative.org/",
+    "email": "hello@m-h-i.org",
+    "phone": "+49 89 38048876",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Dachauer Straße 140C",
+      "zip": "80637",
+      "city": "München",
+      "state": "Bayern",
+      "country": "Deutschland",
+      "geo_lat": "48.1695746",
+      "geo_lng": "11.5337658"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Gesundheit und Prävention"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung"
+      ],
+      "regionen": [
+        "Bayern"
+      ],
+      "sdgs": [
+        "SDG 3 - Gesundheit und Wohlergehen"
+      ],
+      "tags": [
+        "Mentale Gesundheit",
+        "Psychische Gesundheit",
+        "Svizidprävention",
+        "Mental Health"
+      ],
+      "zielgruppen": [
+        "Schüler*innen",
+        "Schulleitungen",
+        "Schulen"
+      ],
+      "evaluation": [
+        "Selbstevaluation"
+      ]
+    },
+    "target_groups": [
+      "schueler",
+      "lehrkraefte",
+      "schulen"
+    ],
+    "topics": [
+      "mentale_gesundheit",
+      "psychische_gesundheit",
+      "svizidpraevention",
+      "mental_health"
+    ]
+  },
+  {
+    "id": "schlau-werkstatt",
+    "slug": "schlau-werkstatt",
+    "name": "SchlaU-Werkstatt",
+    "tagline": "Chancengerechte Bildung für Alle!",
+    "summary": "Wir verändern Bildungspraxis, damit geflüchtete und von Rassismus betroffene Kinder und Jugendliche gerechte Bildungschancen erhalten. Dazu unterstützen wir Schulen und andere Bildungseinrichtungen dabei, ihre pädagogische Praxis diskriminierungskritisch, diversitätsorientiert und sprachsensibel zu gestalten. ",
+    "logo": "/images/organisations/schlau-werkstatt-0.png",
+    "website": "https://www.schlau-werkstatt.de/",
+    "email": "info@schlau-werkstatt.de",
+    "legal_form": "gGmbH",
+    "address": {
+      "street": "Schertlinstraße 4",
+      "zip": "81379",
+      "city": "München",
+      "state": "Bayern",
+      "country": "Deutschland",
+      "geo_lat": "48.0968712",
+      "geo_lng": "11.5161846"
+    }
+  },
+  {
+    "id": "seniorpartnerinschool",
+    "slug": "seniorpartnerinschool",
+    "name": "Seniorpartner in School - Bundesverband e.V.",
+    "tagline": "Wir tragen zur Gewaltprävention bei - Wir bauen Brücken zwischen Alt und Jung",
+    "description": "Unsere Vision:\r\nWir leben in einer multikulturellen, freiheitlichen und demokratischen Gesellschaft, in der sich die ältere für die jüngere Generation engagiert. Dieses Engagement fördert ein friedliches und respektvolles Miteinander, in dem Kinder ihre Potentiale entfalten können.\r\n\r\nUnsere Mission:\r\nWir bilden Menschen in ihrer 3. Lebensphase zu Schulmediator*innen aus und\r\nvermitteln sie an Schulen, wo sie Schüler*innen ehrenamtlich bei der gewaltfreien\r\nKonfliktlösung unterstützen und in Einzelgesprächen begleiten. Damit leisten wir einen\r\nwichtigen Beitrag zur Integration, Stärkung sozialer Kompetenzen von Kindern und zur\r\nGewaltprävention.",
+    "summary": "Seniorpartner in School unterstützt die Schüler und Schülerinnen – vorrangig an den Grundschulen – bestehende Konflikte eigenverantwortlich zu lösen. Dafür bilden wir bundesweit lebenserfahrene Menschen zu ehrenamtlichen Schulmediator*innen aus und vermitteln sie an Partnerschulen. Wir tragen maßgeblich zur Gewaltprävention bei.",
+    "logo": "/images/organisations/seniorpartnerinschool-0.jpg",
+    "cover": "/images/organisations/seniorpartnerinschool-1.jpg",
+    "video": "https://www.youtube.com/watch?v=dd2JvF7bE3U",
+    "website": "https://www.seniorpartnerinschool.de",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Lauterstraße 19",
+      "zip": "12159",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Deutschland",
+      "geo_lat": "52.4727497",
+      "geo_lng": "13.3354887"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/sisbundesverband/",
+      "instagram": "https://www.instagram.com/seniorpartner_bundesverband/",
+      "linkedin": "https://www.linkedin.com/company/97868346/admin/feed/posts/",
+      "youtube": "https://www.youtube.com/@seniorpartnerinschool"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Bildung für nachhaltige Entwicklung",
+        "Bildungssystem",
+        "Ehrenamt- und Engagementförderung",
+        "Persönlichkeitsentwicklung"
+      ],
+      "bildungsabschnitte": [
+        "Schulische Bildung",
+        "Nachberufliche Bildung"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Bayern",
+        "Berlin",
+        "Brandenburg",
+        "Bremen",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Sachsen",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 16 - Frieden, Gerechtigkeit und starke Institutionen",
+        "SDG 10 - Weniger Ungleichheiten"
+      ],
+      "tags": [
+        "Gewaltprävention",
+        "Schulmediation",
+        "Brücke zwischen Alt und Jung",
+        "Gewaltfreie Kommunikation",
+        "Senioren",
+        "Lehrkräfte",
+        "Pädagogisches Personal"
+      ],
+      "zielgruppen": [
+        "Schulleitungen",
+        "Senior*innen",
+        "Schüler*innen"
+      ],
+      "ikom": [
+        "Förderung sozial-emotionaler Kompetenzen und selbstregulativer Kompetenzen",
+        "Förderung der Demokratiebildung und Gewaltprävention",
+        "Weiterentwicklung des Ganztags",
+        "Diversitäts- und demokratieorientierte Schulentwicklung"
+      ],
+      "evaluation": [
+        "Selbstevaluation",
+        "Zertifizierung"
+      ]
+    },
+    "target_groups": [
+      "lehrkraefte",
+      "seniorinnen",
+      "schueler"
+    ],
+    "topics": [
+      "gewaltpraevention",
+      "schulmediation",
+      "bruecke_zwischen_alt_und_jung",
+      "gewaltfreie_kommunikation",
+      "senioren",
+      "lehrkraefte",
+      "paedagogisches_personal"
+    ]
+  },
+  {
+    "id": "innovativebildung",
+    "slug": "innovativebildung",
+    "name": "Bundesverband Innovative Bildungsprogramme e.V.",
+    "tagline": "Bildung neu denken - Gemeinsam Lernräume transformieren",
+    "description": "<p>Der Bundesverband tritt dafür ein, dass unser Bildungssystem weit mehr als bisher Chancengerechtigkeit für alle Kinder und Jugendlichen sicherstellt. Kinder und Jugendliche müssen auf die Anforderungen einer sich rasant ändernden Welt gut vorbereitet werden, so dass sie handlungsfähig im Sinne von gesellschaftlicher Teilhabe sind.</p><p>Über 50 Mitgliedsorganisationen arbeiten bundesweit in Schulen und im schulnahen Bereich. Die Wirkung der Arbeit aller Mitgliedsorganisationen ist evaluiert. Als Bundesverband sind wir die bisher fehlende, nun gebündelte nationale Stimme für ein chancengerechtes und innovatives Bildungssystem.</p>",
+    "summary": "Der Bundesverband Innovative Bildungsprogramme ist der Zusammenschluss der wichtigsten und erfolgreichsten deutschen Schulentwicklungs- und Schulunterstützungsprogramme.",
+    "logo": "/images/organisations/innovativebildung-0.jpg",
+    "cover": "/images/organisations/innovativebildung-1.png",
+    "website": "https://innovativebildung.de",
+    "actions_radius": "bundesweit",
+    "legal_form": "e.V.",
+    "address": {
+      "street": "Wattstraße 11",
+      "zip": "13355",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Deutschland",
+      "geo_lat": "52.5411556",
+      "geo_lng": "13.3909126"
+    },
+    "terms": {
+      "handlungsfelder": [
+        "Bildungssystem",
+        "Bildungsmanagement"
+      ],
+      "bildungsabschnitte": [
+        "Übergang Kita – Schule",
+        "Schulische Bildung",
+        "Übergang Schule – Beruf"
+      ],
+      "regionen": [
+        "Baden-Württemberg",
+        "Berlin",
+        "Bayern",
+        "Brandenburg",
+        "Bremen",
+        "Hamburg",
+        "Hessen",
+        "Mecklenburg-Vorpommern",
+        "Niedersachsen",
+        "Nordrhein-Westfalen",
+        "Rheinland-Pfalz",
+        "Saarland",
+        "Sachsen",
+        "Sachsen-Anhalt",
+        "Schleswig-Holstein",
+        "Thüringen"
+      ],
+      "sdgs": [
+        "SDG 4 - Hochwertige Bildung",
+        "SDG 17 - Partnerschaften zur Erreichung der Ziele"
+      ],
+      "tags": [
+        "Verband"
+      ],
+      "zielgruppen": [
+        "Lehrer*innen",
+        "Schulleitungen",
+        "Außerschulische Akteure",
+        "Schulen",
+        "Schüler*innen"
+      ]
+    },
+    "target_groups": [
+      "lehrkraefte",
+      "ausserschulische_akteure",
+      "schulen",
+      "schueler"
+    ],
+    "topics": [
+      "verband"
+    ]
+  }
+]
