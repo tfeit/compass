@@ -1,7 +1,6 @@
 import type { Question } from '../types/question';
 
-/** Term-Dimensionen, für die es eine Quiz-Frage gibt (ohne ikom) */
-export const TERM_DIMENSIONS = [
+const ALL_TERM_DIMENSIONS = [
   'zielgruppen',
   'handlungsfelder',
   'bildungsabschnitte',
@@ -10,9 +9,9 @@ export const TERM_DIMENSIONS = [
   'evaluation',
 ] as const;
 
-export type TermDimension = (typeof TERM_DIMENSIONS)[number];
+export type TermDimension = (typeof ALL_TERM_DIMENSIONS)[number];
 
-export const questions: Question[] = [
+const ALL_QUESTIONS: Question[] = [
   {
     id: 'zielgruppen',
     title: 'Für wen suchst du ein Angebot?',
@@ -138,3 +137,22 @@ export const questions: Question[] = [
     ],
   },
 ];
+
+const ENABLED_QUESTION_IDS: Record<string, boolean> = {
+  sdgs: false,
+  evaluation: false,
+};
+
+export const questions: Question[] = ALL_QUESTIONS.filter(
+  (q) => ENABLED_QUESTION_IDS[q.id] ?? true
+);
+
+export const TERM_DIMENSIONS: TermDimension[] = Array.from(
+  new Set(
+    questions
+      .map((q) => q.dimension)
+      .filter((d): d is TermDimension =>
+        (ALL_TERM_DIMENSIONS as readonly string[]).includes(d)
+      )
+  )
+);

@@ -36,9 +36,9 @@ export function TagChoice({ name, options, value, onChange, legend }: TagChoiceP
   return (
     <fieldset>
       {legend && (
-        <legend className="block text-sm font-medium text-secondary-muted mb-2">{legend}</legend>
+        <legend className="block text-md lg:text-sm font-medium text-secondary-muted mb-2">{legend}</legend>
       )}
-      <div className="flex flex-wrap gap-2">
+      <div className="flex flex-wrap gap-3 lg:gap-2">
         {sortedOptions.map((opt) => {
           const selected = value.includes(opt.value);
           const labelStr = String(opt.label);
@@ -52,7 +52,7 @@ export function TagChoice({ name, options, value, onChange, legend }: TagChoiceP
               className={`inline-flex items-center justify-center transition-all focus:outline-none focus:ring-2 focus:ring-primary-focus focus:ring-offset-1 cursor-pointer ${
                 opt.icon
                   ? 'w-24 h-24 p-0 rounded-none'
-                  : 'px-3 py-1.5 text-sm font-medium rounded-full'
+                  : 'px-3 py-1.5 text-md lg:text-sm font-medium rounded-full'
               } ${
                 selected
                   ? 'bg-tags'

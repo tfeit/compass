@@ -46,7 +46,7 @@ export function ResultsPage() {
                 imageUrl={org.logo ?? org.cover}
                 url={org.website}
                 description={org.summary ?? (org.description ? String(org.description).replace(/<[^>]+>/g, '').slice(0, 200) : undefined)}
-                location={org.address?.city ? [org.address.city, org.address.state].filter(Boolean).join(', ') : undefined}
+                location={org.address?.city ? org.address.city : undefined}
                 onClick={() => setSelectedOrg(org)}
               />
             ))}

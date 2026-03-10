@@ -1,5 +1,5 @@
 import type { ScoredOrganisation } from '../types/matching';
-import type { TermDimension } from '../data/questions';
+import { TERM_DIMENSIONS, type TermDimension } from '../data/questions';
 
 export interface ResultFilters {
   zielgruppen?: string[];
@@ -21,8 +21,7 @@ export function filterOrganisations(
   filters: ResultFilters
 ): ScoredOrganisation[] {
   return organisations.filter((org) => {
-    const dims: TermDimension[] = ['zielgruppen', 'handlungsfelder', 'bildungsabschnitte', 'regionen', 'sdgs', 'evaluation'];
-    for (const dim of dims) {
+    for (const dim of TERM_DIMENSIONS) {
       const selected = filters[dim];
       if (selected?.length && !orgHasTermValue(org, dim, selected)) return false;
     }

@@ -48,15 +48,13 @@ export function ResultCard({
           <p className="text-secondary-foreground/90 mt-2 line-clamp-2">{description}</p>
         )}
         {url && (
-          <a
-            href={url}
-            target="_blank"
-            rel="noopener noreferrer"
-            onClick={(e) => e.stopPropagation()}
+          <button
+            onClick={onClick}
+            type="button"
             className="inline-block mt-2 text-sm text-primary hover:underline focus:outline-none focus:ring-2 focus:ring-primary-focus focus:ring-offset-1 rounded"
           >
-            Zur Website →
-          </a>
+            Mehr erfahren →
+          </button>
         )}
       </div>
     </Card>
